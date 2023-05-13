@@ -1,1 +1,0 @@
-../../rom/syberia.mk
